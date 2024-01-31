@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libSCT.a CMakeFiles/SCT.dir/sct.cpp.o CMakeFiles/SCT.dir/sctSave.cpp.o CMakeFiles/SCT.dir/sctSampling.cpp.o CMakeFiles/SCT.dir/sctShrink.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libSCT.a

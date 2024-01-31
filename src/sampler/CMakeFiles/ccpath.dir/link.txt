@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libccpath.a CMakeFiles/ccpath.dir/ccpath2.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libccpath.a

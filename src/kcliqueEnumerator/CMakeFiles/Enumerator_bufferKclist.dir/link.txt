@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libEnumerator_bufferKclist.a CMakeFiles/Enumerator_bufferKclist.dir/bufferKclist.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libEnumerator_bufferKclist.a

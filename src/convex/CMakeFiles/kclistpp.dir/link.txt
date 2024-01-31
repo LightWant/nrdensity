@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libkclistpp.a CMakeFiles/kclistpp.dir/kclistpp.cpp.o CMakeFiles/kclistpp.dir/kclistppkclflow.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libkclistpp.a

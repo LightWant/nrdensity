@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libLADSHLPP.a CMakeFiles/LADSHLPP.dir/ladsHLPP.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libLADSHLPP.a

@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libminrf.a CMakeFiles/minrf.dir/minrf.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libminrf.a

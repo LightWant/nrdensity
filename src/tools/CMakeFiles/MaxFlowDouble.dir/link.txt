@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libMaxFlowDouble.a CMakeFiles/MaxFlowDouble.dir/MaxFlowDouble.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libMaxFlowDouble.a
